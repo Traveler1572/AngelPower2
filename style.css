@@ -52,7 +52,10 @@ input[type="submit"]:hover {
     margin-top: 10px;
 }
 
-/* ここから個人設定用CSS */
+/* ここから個人設定用CSS 
+    Date : 2023-05-17
+    Author : Y.Takei
+*/
 h2 {
     text-align: center;
 }
